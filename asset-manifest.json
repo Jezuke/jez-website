@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jez-website/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/jez-website/static/js/main.fc888fd8.chunk.js",
-    "main.js.map": "/jez-website/static/js/main.fc888fd8.chunk.js.map",
+    "main.js": "/jez-website/static/js/main.975ed7f3.chunk.js",
+    "main.js.map": "/jez-website/static/js/main.975ed7f3.chunk.js.map",
     "runtime-main.js": "/jez-website/static/js/runtime-main.401fbf6e.js",
     "runtime-main.js.map": "/jez-website/static/js/runtime-main.401fbf6e.js.map",
     "static/js/2.bc54e8a2.chunk.js": "/jez-website/static/js/2.bc54e8a2.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.401fbf6e.js",
     "static/js/2.bc54e8a2.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.fc888fd8.chunk.js"
+    "static/js/main.975ed7f3.chunk.js"
   ]
 }
