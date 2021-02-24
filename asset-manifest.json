@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jez-website/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jez-website/static/js/main.fc888fd8.chunk.js",
+    "main.js.map": "/jez-website/static/js/main.fc888fd8.chunk.js.map",
+    "runtime-main.js": "/jez-website/static/js/runtime-main.401fbf6e.js",
+    "runtime-main.js.map": "/jez-website/static/js/runtime-main.401fbf6e.js.map",
+    "static/js/2.bc54e8a2.chunk.js": "/jez-website/static/js/2.bc54e8a2.chunk.js",
+    "static/js/2.bc54e8a2.chunk.js.map": "/jez-website/static/js/2.bc54e8a2.chunk.js.map",
+    "static/js/3.0ff530d0.chunk.js": "/jez-website/static/js/3.0ff530d0.chunk.js",
+    "static/js/3.0ff530d0.chunk.js.map": "/jez-website/static/js/3.0ff530d0.chunk.js.map",
+    "index.html": "/jez-website/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jez-website/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bc54e8a2.chunk.js.LICENSE.txt": "/jez-website/static/js/2.bc54e8a2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jez-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.401fbf6e.js",
+    "static/js/2.bc54e8a2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fc888fd8.chunk.js"
+  ]
+}
